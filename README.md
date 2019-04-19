@@ -1,2 +1,2 @@
 # RML
-Data base of sounds and instruments for use in music studio
+Database of sounds and midi controlled digital instruments for use with software and controller devices in a music studio
